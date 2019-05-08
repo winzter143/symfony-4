@@ -1,3 +1,7 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+
+app_about:
+    path: /
+    controller: App\Controller\AboutController::index 
